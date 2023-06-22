@@ -9,17 +9,9 @@ Calculadora feita com CSS grid bidemensinal,dividi a tela em linhas e colunas fa
 Conseguimos fazer todos os tipos de cálculos.
 
 ## 🚀A página👌
-<img src="" alt="">
-<img src="" alt="">
+<img src="./css/img/calc-gif.gif" alt="gif exibindo o desktop e versão mobile do site">
 
-
-
-## 🧞‍♀️ Desenvolvedora
-
-## 🚀A página👌
-<img src="" alt="gif exibindo o desktop e versão mobile do site">
-
-<a href="" target= "-blank">Acesse a página online</a>
+<a href="https://preeminent-yeot-330458.netlify.app/" target= "-blank">Acesse a página online</a>
 
 ## 🧞‍♀️ Desenvolvedora
 
